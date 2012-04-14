@@ -1,6 +1,7 @@
 Lingua-ru
 =============================
 
+[![Build Status](https://secure.travis-ci.org/mytholog/Lingua-ru.png?branch=master)](http://travis-ci.org/mytholog/Lingua-ru)
 
 ## Dependencies
 
