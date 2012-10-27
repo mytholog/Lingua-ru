@@ -15,7 +15,7 @@ namespace Lingua;
  * Implements a lightweight PSR-0 compliant autoloader.
  *
  * @author Eric Naeseth <eric@thumbtack.com>
- * @author Igor Gavrilov <igor.gavrilov@softline.ru>
+ * @author Igor Gavrilov <mytholog@yandex.ru>
  */
 class Autoloader {
 
