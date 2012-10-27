@@ -3,7 +3,7 @@
 /*
  * This file is part of the Lingua-ru package.
  *
- * (c) Igor Gavrilov <igor.gavrilov@softline.ru>
+ * (c) Igor Gavrilov <mytholog@yandex.ru>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -14,7 +14,7 @@ namespace Lingua\RU\Formatter;
 /**
  * Number formatter (Russian language)
  *
- * @author Igor Gavrilov <igor.gavrilov@softline.ru>
+ * @author Igor Gavrilov <mytholog@yandex.ru>
  */
 class NumberFormatter {
 
